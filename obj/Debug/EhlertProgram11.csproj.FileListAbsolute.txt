@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\bin\Debug\EhlertProgram11.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\bin\Debug\EhlertProgram11.exe
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\bin\Debug\EhlertProgram11.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.frmDatabase.resources
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.exe
+C:\Users\Kaleb\source\repos\EhlertProgram11\EhlertProgram11\obj\Debug\EhlertProgram11.pdb
